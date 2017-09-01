@@ -1,5 +1,5 @@
 position_taken?(board, index) do
-  if array[index] = " "
+  if board[index] = " "
     false
   end
 end
