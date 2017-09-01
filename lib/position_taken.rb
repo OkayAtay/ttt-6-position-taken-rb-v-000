@@ -1,3 +1,5 @@
-position_taken?(board, index) 
-
+position_taken?(board, index)
+  if board[index]
+    
+  end
 end
