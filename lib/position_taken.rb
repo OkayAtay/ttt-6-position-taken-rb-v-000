@@ -3,3 +3,4 @@ position_taken?(board, index) do
     false
   end
 end
+end
