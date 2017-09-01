@@ -1,4 +1,4 @@
-position_taken?(board, index) do
+position_taken?(board, index) 
   if board[index} == " "
     false
   end
