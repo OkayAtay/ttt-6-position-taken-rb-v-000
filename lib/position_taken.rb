@@ -1,3 +1,3 @@
-position_taken?(board,index) do
+position_taken?(board, index) 
 
 end
